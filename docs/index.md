@@ -7,4 +7,4 @@ has_children: true
 
 # Contents
 
-Here you will soon find stuff
+Here you will find the links to the original md pages.
