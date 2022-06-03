@@ -1,3 +1,11 @@
+---
+layout: default
+title: Building on Windows
+parent: Building
+grand_parent: Documentation
+nav_order: 2
+---
+
 # Build instructions for installing third-party dependencies (on Windows)
 
  - [CMake](#cmake)

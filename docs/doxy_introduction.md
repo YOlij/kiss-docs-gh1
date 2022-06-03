@@ -1,3 +1,10 @@
+---
+layout: default
+title: Doxy Introduction
+parent: Documentation
+nav_order: 6
+---
+
 # Introduction {#introduction}
 
 In the KISS-prototype, a framework is developed for simulation environmental flow problems.

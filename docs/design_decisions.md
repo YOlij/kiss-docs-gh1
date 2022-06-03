@@ -1,3 +1,10 @@
+---
+layout: default
+title: Design Decisions
+parent: Documentation
+nav_order: 4
+---
+
 # Design decisions
 
 ---

@@ -1,3 +1,11 @@
+---
+layout: default
+title: Building
+parent: Documentation
+nav_order: 2
+has_children: true
+---
+
 # Build requirements
 
  - CMake 3.19.3 or higher

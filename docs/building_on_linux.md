@@ -1,3 +1,11 @@
+---
+layout: default
+title: Building on Linux
+parent: Building
+grand_parent: Documentation
+nav_order: 1
+---
+
 # Build instructions for installing third-party dependencies (on Ubuntu Linux 20.04 LTS)
 
  - [C++ Compiler](#c-compiler)

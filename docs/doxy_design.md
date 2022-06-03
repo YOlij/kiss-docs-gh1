@@ -1,3 +1,10 @@
+---
+layout: default
+title: Doxy Design
+parent: Documentation
+nav_order: 5
+---
+
 # Design {#design}
 
 The KISS framework applies a layered architecture with the following layers:
