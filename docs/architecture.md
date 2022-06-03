@@ -1,3 +1,11 @@
+---
+layout: default
+title: Architecture
+parent: Contents
+nav_order: 1
+has_children: true
+---
+
 # Architecture
 
 ## Introduction
