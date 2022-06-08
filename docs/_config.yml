@@ -3,6 +3,7 @@ description: Documentation for the KISS Project
 # url: "https://yolij.github.io/kiss-docs-gh1" # the base hostname & protocol for your site, e.g. http://example.com
 
 remote_theme: just-the-docs/just-the-docs
+theme: "just-the-docs"
 
 # Aux links for the upper right navigation
 aux_links:
