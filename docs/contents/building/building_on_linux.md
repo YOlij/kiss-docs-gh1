@@ -3,7 +3,7 @@ layout: default
 title: Building on Linux
 parent: Building
 grand_parent: Getting Started
-nav_order: 1
+nav_order: 2
 ---
 
 # Build instructions for installing third-party dependencies (on Ubuntu Linux 20.04 LTS)

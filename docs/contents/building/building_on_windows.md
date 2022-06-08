@@ -3,7 +3,7 @@ layout: default
 title: Building on Windows
 parent: Building
 grand_parent: Getting Started
-nav_order: 2
+nav_order: 3
 ---
 
 # Build instructions for installing third-party dependencies (on Windows)
