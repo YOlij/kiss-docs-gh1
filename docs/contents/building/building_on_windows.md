@@ -2,7 +2,7 @@
 layout: default
 title: Building on Windows
 parent: Building
-grand_parent: Documentation
+grand_parent: Getting Started
 nav_order: 2
 ---
 

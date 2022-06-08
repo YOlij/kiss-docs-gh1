@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Building
-parent: Documentation
-nav_order: 1
+parent: Getting Started
+nav_order: 2
 has_children: true
 ---
 
