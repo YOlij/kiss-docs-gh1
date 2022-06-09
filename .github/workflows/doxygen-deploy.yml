@@ -7,10 +7,10 @@ on:
 jobs:
   build-documentation:
     runs-on: ubuntu-20.04
-	
+
     steps:
       - uses: actions/checkout@v2
-	  
+
       - name: Doxygen Action
         uses: mattnotmitt/doxygen-action@v1.1.0
         with:
