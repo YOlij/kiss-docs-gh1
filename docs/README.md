@@ -1,3 +1,3 @@
 # README
 
-Some content.
+Test repository for the KISS project's documentation website.

@@ -38,3 +38,4 @@ Framework/Data/Writers/netcdf/tests/data/timeSeries.nc
 
 # Folders
 docs-local
+html-built-doxygen-files
